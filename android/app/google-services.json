@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62330384217",
+    "project_id": "mllp-51be4",
+    "storage_bucket": "mllp-51be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62330384217:android:8b2f4432c33967cf616648",
+        "android_client_info": {
+          "package_name": "com.example.mllp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62330384217-8ajiplfeo57in8c4mhlt2l1tv0iv55te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1Sx4fp6Y4DVq5__ILcgbQjvThIruRmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62330384217-8ajiplfeo57in8c4mhlt2l1tv0iv55te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
